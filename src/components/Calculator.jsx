@@ -21,7 +21,7 @@ export const Calculator = () => {
         }
     }
   return (
-    <div className={`w-full h-screen bg-gradient to-r bg-yellow-500 bg-orange-500 to bg-red-500 flex flex-col items-center justify-center `}>
+    <div className={`w-full h-screen bg-gradient to-r bg-yellow-500  to bg-red-500 flex flex-col items-center justify-center `}>
         <h1 className='drop-shadow-lg text-4xl items-center justify-center text-center font-bold'>Calculator</h1>
         
         <div className='bg-white w-96 h-auto mx-auto rounded-lg overflow-hidden mt-5 shadow-lg border p-2 border-black '>
